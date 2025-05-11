@@ -15,3 +15,7 @@ Specialty-wise AvgMed_switch: Highlights the average medical switch times across
 Trend Analysis: Line graphs tracking changes in case type volumes over time, helping identify key shifts in patient flow and resource demand.
 
 The dashboard supports filtering by case type, specialty, and date range,offering a flexible and insightful view into patient care management.
+
+
+<img width="669" alt="Patient case type_Dashboard" src="https://github.com/user-attachments/assets/98583cb5-a63b-4c9f-8c10-53d4e4a0320c" />
+
